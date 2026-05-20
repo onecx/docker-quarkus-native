@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/ubi10/ubi-minimal:10.1-1778576723 AS min
 
-FROM registry.access.redhat.com/ubi10-micro:10.1-1778532954
+FROM registry.access.redhat.com/ubi10-micro:10.2-1777510731
 
 LABEL org.opencontainers.image.source="https://github.com/onecx/docker-quarkus-native"
 LABEL org.opencontainers.image.description="Docker image for Quarkus native application base on ubi10/ubi-minimal"

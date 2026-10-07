@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi10/ubi-minimal:10.2-1790753097 AS min
+FROM registry.access.redhat.com/ubi10/ubi-minimal:10.2-1791321979 AS min
 
 FROM registry.access.redhat.com/ubi10-micro:10.2-1787684489
 
